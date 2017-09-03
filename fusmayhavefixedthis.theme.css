@@ -5,6 +5,12 @@
     background-image: url("https://puu.sh/t68ks/8ad2e95c1c.jpg");
     background-size: cover !important;
     background-position: center;
+	}
+	.callout-backdrop {
+	opacity:1 !important;
+	background: url("https://i.imgur.com/eeDIMtw.jpg");
+	background-size: cover;
+    background-position: center;
 }
 .bda-backdrop {
     background: url("https://i.imgur.com/NUhSyNd.jpg");
